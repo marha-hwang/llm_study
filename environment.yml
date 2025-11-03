@@ -1,0 +1,14 @@
+name: llm-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pytorch
+  - tensorflow
+  - torchvision
+prefix: /Users/haram/miniconda3/envs/llm-env
