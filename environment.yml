@@ -2,13 +2,13 @@ name: llm-env
 channels:
   - defaults
 dependencies:
-  - python=3.11
-  - numpy
   - jupyterlab
-  - pandas
-  - scikit-learn
   - matplotlib
+  - torchvision
+  - pandas
+  - python=3.12.12
+  - scikit-learn
+  - numpy
   - pytorch
   - tensorflow
-  - torchvision
 prefix: /Users/haram/miniconda3/envs/llm-env
